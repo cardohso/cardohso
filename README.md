@@ -12,12 +12,6 @@ I care about whether a generative AI system's answers are actually reliable, not
 | [**pricewise-pt**](https://github.com/cardohso/pricewise-pt) | Price estimates with honest uncertainty ranges, leak-proof backtests, and Portugal's vehicle tax rules (ISV/IUC) as tested Python. |
 | [**Portfolio**](https://cardohso.vercel.app) | Case studies on LLM evaluation and RAG ([source](https://github.com/cardohso/cv-website)). |
 
-## Experience
-
-- **Generative AI Engineer, Frimarc** (Aug–Sep 2026): RAG pipelines and LLM applications for the food distribution sector.
-- **AI Engineering Intern, Salus Optima** (Feb–Jul 2026): LLM-as-a-judge evaluation pipeline, RAGAS retrieval metrics and CI evaluation runs for a due-diligence platform.
-- **Paper:** *Testing and Observability for Non-Deterministic Generative-AI Pipelines*, accepted at CAPSI 2026.
-
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
