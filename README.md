@@ -1,4 +1,4 @@
-# João Pedro Cardoso repo
+# João Pedro Cardoso Repo
 
 **AI engineer** building and evaluating RAG and LLM systems · MSc in Software Engineering at ISEC · Portugal
 
